@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(142, 36, 78);
+    
+}
+
+.MainBody{
+    display: flex;
+    margin: 50px;
+    
+}
+.ASHISH :hover{
+    color : red;
+}
+.contentBody{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.photoBody{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.img{
+    height: 350px;
+    
+}
