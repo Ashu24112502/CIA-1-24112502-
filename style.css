@@ -11,6 +11,24 @@ body{
 .ASHISH :hover{
     color : red;
 }
+.header{
+    display: flex;
+    background-color: darkblue;
+    justify-content: center;
+    font-size: x-large;
+    box-shadow: grey 1px 1px 10px;
+
+}
+
+.headerDivision{
+    display:flex;
+
+}
+.headeritem{
+    margin: 10px;
+    color: antiquewhite;
+    text-decoration: none;
+}
 .contentBody{
     width: 50%;
     display: flex;
